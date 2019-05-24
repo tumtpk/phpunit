@@ -23,7 +23,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1 class="text-center">Calculate Grade</h1>
+    <h1 class="text-center">Calculate Grade 2</h1>
     <div class="row justify-content-md-center">
         <div class="col col-lg-4">
             <form method="get">
