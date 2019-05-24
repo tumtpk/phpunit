@@ -89,7 +89,7 @@ class GradeTest extends PHPUnit_Framework_TestCase
 
     public function testEqualAWith80(){
         $input = 80;
-        $expected = "A";
+        $expected = "B";
 
         $o = new Grade($input);
         $o->calculate();
